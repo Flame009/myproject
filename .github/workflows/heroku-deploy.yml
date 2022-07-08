@@ -17,6 +17,6 @@ jobs:
        with:
          heroku_api_key: ${{secrets.HEROKU_API_KEY}}
          heroku_api_name: "crackeeee" #Must be unique in Heroku
-         heroku_email: "bmbaem@usiu.ac.ke@
+         heroku_email: "bmbaem@usiu.ac.ke"
    
 
